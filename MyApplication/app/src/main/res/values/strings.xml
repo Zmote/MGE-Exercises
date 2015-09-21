@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <string name="hello_world">Hello world, I\'m awesome, because I\'m Zafer!</string>
+    <string name="hello_second">Hello, Second Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
