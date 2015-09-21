@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">MyCalculatorApp</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="input_val">Medium Text</string>
-</resources>
